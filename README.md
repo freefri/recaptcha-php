@@ -11,7 +11,7 @@ The recommended way to use ReCaptcha is [through composer](http://getcomposer.or
 ```json
 {
     "require": {
-        "freefri/recaptcha-php": "master"
+        "freefri/recaptcha-php": "dev-master"
     }
 }
 ```
